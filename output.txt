@@ -1,0 +1,75 @@
+Warning: Unable to determine direction from text: 'Information for pairs0049:
+ Switzerland
+""
+""
+""
+ Switzerland)
+""
+""
+""'
+Warning: Unable to determine direction from text: 'Information for pairs0050:
+ Switzerland
+""
+""
+""
+ Switzerland)
+""
+""
+""'
+Warning: Unable to determine direction from text: 'Information for pairs0051:
+ Switzerland
+""
+""
+""
+ Switzerland)
+""
+""
+""'
+Warning: Unable to determine direction from text: 'Description of pair0085:
+ corresponding to cows who stopped producing milk before the end of the experiment.
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""'
+Warning: Unable to determine direction from text: 'First column:  size in m^2 of appartment/room
+Second column: monthly rent in EUR'
+Warning: Unable to determine direction from text: 'Whistler Daily Snowfall (from http://www.mldata.org/repository/data/viewslug/whistler-daily-snowfall/)
+" Canada over the period July 1 1972 to December 31 2009. Measured at top of Whistler Gondola: Latitude: 50°04'04.000"" N Longitude: 122°56'50.000"" W Elevation: 1835.00 m "
+""
+""
+""
+""
+""'
+Warning: Unable to determine direction from text: 'x = age
+y = Relative Spinal bone mineral density
+Source:
+bone data set from http://cran.r-project.org/web/packages/ElemStatLearn/ElemStatLearn.pdf
+We obtained and preprocessed the data using the following R commands:
+install.packages('ElemStatLearn')
+library(ElemStatLearn)
+for( i in 2:dim(bone)[1] ) { 
+  } 
+}
+remove.packages('ElemStatLearn')
+"selected only the columns ""age"" and ""spnbmd"" (Relative Change in Spinal BMD)."
+The ground truth should be that age causes relative change in spinal BMD.'
+
+Successfully loaded 101 files
+
+Pair 52, Epoch 1, Loss: 8.2952
+Pair 52, Epoch 2, Loss: 6.6920
+Pair 52, Epoch 3, Loss: 4.3556
+Pair 52, Epoch 4, Loss: 3.4828
+Pair 52, Epoch 5, Loss: 2.0563
+Pair 52, Epoch 6, Loss: 1.3425
+Pair 52, Epoch 7, Loss: 0.6846
+Pair 52, Epoch 8, Loss: 0.4439
+Pair 52, Epoch 9, Loss: 0.2656
+Pair 52, Epoch 10, Loss: 0.1628

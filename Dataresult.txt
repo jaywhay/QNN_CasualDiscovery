@@ -1,0 +1,553 @@
+
+Successfully loaded 108 files
+
+Dataset size: 108
+
+Label Distribution:
+Label 0 (y→x): 27 samples
+Label 1 (x→y): 81 samples
+Label -1 (unknown): 0 samples
+
+Detailed Label Information:
+File: pair0001.csv, Label: 1, Weight: 0.166
+File: pair0002.csv, Label: 1, Weight: 0.166
+File: pair0003.csv, Label: 1, Weight: 0.167
+File: pair0004.csv, Label: 1, Weight: 0.166
+File: pair0005.csv, Label: 1, Weight: 0.143
+File: pair0006.csv, Label: 1, Weight: 0.143
+File: pair0007.csv, Label: 1, Weight: 0.143
+File: pair0008.csv, Label: 1, Weight: 0.143
+File: pair0009.csv, Label: 1, Weight: 0.143
+File: pair0010.csv, Label: 1, Weight: 0.143
+File: pair0011.csv, Label: 1, Weight: 0.142
+File: pair0012.csv, Label: 1, Weight: 0.5
+File: pair0013.csv, Label: 1, Weight: 0.25
+File: pair0014.csv, Label: 1, Weight: 0.25
+File: pair0015.csv, Label: 1, Weight: 0.25
+File: pair0016.csv, Label: 1, Weight: 0.25
+File: pair0017.csv, Label: 1, Weight: 0.5
+File: pair0018.csv, Label: 1, Weight: 1.0
+File: pair0019.csv, Label: 1, Weight: 1.0
+File: pair0020.csv, Label: 1, Weight: 0.166
+File: pair0021.csv, Label: 1, Weight: 0.167
+File: pair0022.csv, Label: 1, Weight: 0.333
+File: pair0023.csv, Label: 1, Weight: 0.333
+File: pair0024.csv, Label: 1, Weight: 0.334
+File: pair0025.csv, Label: 1, Weight: 0.125
+File: pair0026.csv, Label: 1, Weight: 0.125
+File: pair0027.csv, Label: 1, Weight: 0.125
+File: pair0028.csv, Label: 1, Weight: 0.125
+File: pair0029.csv, Label: 1, Weight: 0.125
+File: pair0030.csv, Label: 1, Weight: 0.125
+File: pair0031.csv, Label: 1, Weight: 0.125
+File: pair0032.csv, Label: 1, Weight: 0.125
+File: pair0033.csv, Label: 1, Weight: 0.2
+File: pair0034.csv, Label: 1, Weight: 0.2
+File: pair0035.csv, Label: 1, Weight: 0.2
+File: pair0036.csv, Label: 1, Weight: 0.2
+File: pair0037.csv, Label: 1, Weight: 0.2
+File: pair0038.csv, Label: 1, Weight: 0.25
+File: pair0039.csv, Label: 1, Weight: 0.25
+File: pair0040.csv, Label: 1, Weight: 0.25
+File: pair0041.csv, Label: 1, Weight: 0.25
+File: pair0042.csv, Label: 1, Weight: 0.5
+File: pair0043.csv, Label: 1, Weight: 0.25
+File: pair0044.csv, Label: 1, Weight: 0.25
+File: pair0045.csv, Label: 1, Weight: 0.25
+File: pair0046.csv, Label: 1, Weight: 0.25
+File: pair0047.csv, Label: 0, Weight: 1.0
+File: pair0048.csv, Label: 0, Weight: 1.0
+File: pair0049.csv, Label: 1, Weight: 0.333
+File: pair0050.csv, Label: 1, Weight: 0.333
+File: pair0051.csv, Label: 1, Weight: 0.334
+File: pair0052.csv, Label: 0, Weight: 0.0
+File: pair0053.csv, Label: 0, Weight: 0.0
+File: pair0054.csv, Label: 1, Weight: 0.0
+File: pair0055.csv, Label: 0, Weight: 0.0
+File: pair0056.csv, Label: 0, Weight: 0.083
+File: pair0057.csv, Label: 0, Weight: 0.083
+File: pair0058.csv, Label: 0, Weight: 0.084
+File: pair0059.csv, Label: 0, Weight: 0.083
+File: pair0060.csv, Label: 0, Weight: 0.083
+File: pair0061.csv, Label: 0, Weight: 0.084
+File: pair0062.csv, Label: 0, Weight: 0.083
+File: pair0063.csv, Label: 0, Weight: 0.083
+File: pair0064.csv, Label: 1, Weight: 0.084
+File: pair0065.csv, Label: 1, Weight: 0.333
+File: pair0066.csv, Label: 1, Weight: 0.333
+File: pair0067.csv, Label: 1, Weight: 0.334
+File: pair0068.csv, Label: 0, Weight: 1.0
+File: pair0069.csv, Label: 0, Weight: 1.0
+File: pair0070.csv, Label: 1, Weight: 1.0
+File: pair0071.csv, Label: 1, Weight: 0.0
+File: pair0072.csv, Label: 1, Weight: 1.0
+File: pair0073.csv, Label: 0, Weight: 0.083
+File: pair0074.csv, Label: 1, Weight: 0.083
+File: pair0075.csv, Label: 0, Weight: 0.084
+File: pair0076.csv, Label: 1, Weight: 1.0
+File: pair0077.csv, Label: 0, Weight: 0.5
+File: pair0078.csv, Label: 1, Weight: 0.3333
+File: pair0079.csv, Label: 0, Weight: 0.3333
+File: pair0080.csv, Label: 0, Weight: 0.3334
+File: pair0081.csv, Label: 1, Weight: 0.3333
+File: pair0082.csv, Label: 1, Weight: 0.3333
+File: pair0083.csv, Label: 1, Weight: 0.3334
+File: pair0084.csv, Label: 0, Weight: 1.0
+File: pair0085.csv, Label: 1, Weight: 1.0
+File: pair0086.csv, Label: 1, Weight: 1.0
+File: pair0087.csv, Label: 1, Weight: 1.0
+File: pair0088.csv, Label: 1, Weight: 1.0
+File: pair0089.csv, Label: 0, Weight: 0.25
+File: pair0090.csv, Label: 0, Weight: 0.25
+File: pair0091.csv, Label: 1, Weight: 0.25
+File: pair0092.csv, Label: 0, Weight: 0.25
+File: pair0093.csv, Label: 1, Weight: 1.0
+File: pair0094.csv, Label: 1, Weight: 0.3333
+File: pair0095.csv, Label: 1, Weight: 0.3333
+File: pair0096.csv, Label: 1, Weight: 0.3333
+File: pair0097.csv, Label: 1, Weight: 0.2
+File: pair0098.csv, Label: 1, Weight: 0.2
+File: pair0099.csv, Label: 0, Weight: 1.0
+File: pair0100.csv, Label: 1, Weight: 1.0
+File: pair0101.csv, Label: 1, Weight: 0.5
+File: pair0102.csv, Label: 1, Weight: 0.2
+File: pair0103.csv, Label: 1, Weight: 0.2
+File: pair0104.csv, Label: 1, Weight: 0.2
+File: pair0105.csv, Label: 1, Weight: 0.5
+File: pair0106.csv, Label: 0, Weight: 1.0
+File: pair0107.csv, Label: 1, Weight: 1.0
+File: pair0108.csv, Label: 0, Weight: 1.0
+
+Dimension Information for Special Cases:
+
+File: pair0001.csv
+X dimensions: (349, 1)
+Y dimensions: (349, 1)
+
+File: pair0002.csv
+X dimensions: (349, 1)
+Y dimensions: (349, 1)
+
+File: pair0003.csv
+X dimensions: (349, 1)
+Y dimensions: (349, 1)
+
+File: pair0004.csv
+X dimensions: (349, 1)
+Y dimensions: (349, 1)
+
+File: pair0005.csv
+X dimensions: (4177, 1)
+Y dimensions: (4177, 1)
+
+File: pair0006.csv
+X dimensions: (4177, 1)
+Y dimensions: (4177, 1)
+
+File: pair0007.csv
+X dimensions: (4177, 1)
+Y dimensions: (4177, 1)
+
+File: pair0008.csv
+X dimensions: (4177, 1)
+Y dimensions: (4177, 1)
+
+File: pair0009.csv
+X dimensions: (4177, 1)
+Y dimensions: (4177, 1)
+
+File: pair0010.csv
+X dimensions: (4177, 1)
+Y dimensions: (4177, 1)
+
+File: pair0011.csv
+X dimensions: (4177, 1)
+Y dimensions: (4177, 1)
+
+File: pair0012.csv
+X dimensions: (5000, 1)
+Y dimensions: (5000, 1)
+
+File: pair0013.csv
+X dimensions: (392, 1)
+Y dimensions: (392, 1)
+
+File: pair0014.csv
+X dimensions: (392, 1)
+Y dimensions: (392, 1)
+
+File: pair0015.csv
+X dimensions: (392, 1)
+Y dimensions: (392, 1)
+
+File: pair0016.csv
+X dimensions: (392, 1)
+Y dimensions: (392, 1)
+
+File: pair0017.csv
+X dimensions: (5000, 1)
+Y dimensions: (5000, 1)
+
+File: pair0018.csv
+X dimensions: (314, 1)
+Y dimensions: (314, 1)
+
+File: pair0019.csv
+X dimensions: (194, 1)
+Y dimensions: (194, 1)
+
+File: pair0020.csv
+X dimensions: (349, 1)
+Y dimensions: (349, 1)
+
+File: pair0021.csv
+X dimensions: (349, 1)
+Y dimensions: (349, 1)
+
+File: pair0022.csv
+X dimensions: (450, 1)
+Y dimensions: (450, 1)
+
+File: pair0023.csv
+X dimensions: (452, 1)
+Y dimensions: (452, 1)
+
+File: pair0024.csv
+X dimensions: (451, 1)
+Y dimensions: (451, 1)
+
+File: pair0025.csv
+X dimensions: (1030, 1)
+Y dimensions: (1030, 1)
+
+File: pair0026.csv
+X dimensions: (1030, 1)
+Y dimensions: (1030, 1)
+
+File: pair0027.csv
+X dimensions: (1030, 1)
+Y dimensions: (1030, 1)
+
+File: pair0028.csv
+X dimensions: (1030, 1)
+Y dimensions: (1030, 1)
+
+File: pair0029.csv
+X dimensions: (1030, 1)
+Y dimensions: (1030, 1)
+
+File: pair0030.csv
+X dimensions: (1030, 1)
+Y dimensions: (1030, 1)
+
+File: pair0031.csv
+X dimensions: (1030, 1)
+Y dimensions: (1030, 1)
+
+File: pair0032.csv
+X dimensions: (1030, 1)
+Y dimensions: (1030, 1)
+
+File: pair0033.csv
+X dimensions: (345, 1)
+Y dimensions: (345, 1)
+
+File: pair0034.csv
+X dimensions: (345, 1)
+Y dimensions: (345, 1)
+
+File: pair0035.csv
+X dimensions: (345, 1)
+Y dimensions: (345, 1)
+
+File: pair0036.csv
+X dimensions: (345, 1)
+Y dimensions: (345, 1)
+
+File: pair0037.csv
+X dimensions: (345, 1)
+Y dimensions: (345, 1)
+
+File: pair0038.csv
+X dimensions: (757, 1)
+Y dimensions: (757, 1)
+
+File: pair0039.csv
+X dimensions: (394, 1)
+Y dimensions: (394, 1)
+
+File: pair0040.csv
+X dimensions: (733, 1)
+Y dimensions: (733, 1)
+
+File: pair0041.csv
+X dimensions: (763, 1)
+Y dimensions: (763, 1)
+
+File: pair0042.csv
+X dimensions: (9162, 1)
+Y dimensions: (9162, 1)
+
+File: pair0043.csv
+X dimensions: (10369, 1)
+Y dimensions: (10369, 1)
+
+File: pair0044.csv
+X dimensions: (10369, 1)
+Y dimensions: (10369, 1)
+
+File: pair0045.csv
+X dimensions: (10369, 1)
+Y dimensions: (10369, 1)
+
+File: pair0046.csv
+X dimensions: (10369, 1)
+Y dimensions: (10369, 1)
+
+File: pair0047.csv
+X dimensions: (254, 1)
+Y dimensions: (254, 1)
+
+File: pair0048.csv
+X dimensions: (168, 1)
+Y dimensions: (168, 1)
+
+File: pair0049.csv
+X dimensions: (365, 1)
+Y dimensions: (365, 1)
+
+File: pair0050.csv
+X dimensions: (365, 1)
+Y dimensions: (365, 1)
+
+File: pair0051.csv
+X dimensions: (365, 1)
+Y dimensions: (365, 1)
+
+File: pair0052.csv
+X dimensions: (10226, 4)
+Y dimensions: (10226, 4)
+
+File: pair0053.csv
+X dimensions: (989, 3)
+Y dimensions: (989, 1)
+
+File: pair0054.csv
+X dimensions: (392, 3)
+Y dimensions: (392, 2)
+
+File: pair0055.csv
+X dimensions: (72, 16)
+Y dimensions: (72, 16)
+
+File: pair0056.csv
+X dimensions: (192, 1)
+Y dimensions: (192, 1)
+
+File: pair0057.csv
+X dimensions: (192, 1)
+Y dimensions: (192, 1)
+
+File: pair0058.csv
+X dimensions: (192, 1)
+Y dimensions: (192, 1)
+
+File: pair0059.csv
+X dimensions: (192, 1)
+Y dimensions: (192, 1)
+
+File: pair0060.csv
+X dimensions: (192, 1)
+Y dimensions: (192, 1)
+
+File: pair0061.csv
+X dimensions: (192, 1)
+Y dimensions: (192, 1)
+
+File: pair0062.csv
+X dimensions: (192, 1)
+Y dimensions: (192, 1)
+
+File: pair0063.csv
+X dimensions: (192, 1)
+Y dimensions: (192, 1)
+
+File: pair0064.csv
+X dimensions: (162, 1)
+Y dimensions: (162, 1)
+
+File: pair0065.csv
+X dimensions: (1331, 1)
+Y dimensions: (1331, 1)
+
+File: pair0066.csv
+X dimensions: (1331, 1)
+Y dimensions: (1331, 1)
+
+File: pair0067.csv
+X dimensions: (1331, 1)
+Y dimensions: (1331, 1)
+
+File: pair0068.csv
+X dimensions: (498, 1)
+Y dimensions: (498, 1)
+
+File: pair0069.csv
+X dimensions: (16382, 1)
+Y dimensions: (16382, 1)
+
+File: pair0070.csv
+X dimensions: (4499, 1)
+Y dimensions: (4499, 1)
+
+File: pair0071.csv
+X dimensions: (120, 6)
+Y dimensions: (120, 2)
+
+File: pair0072.csv
+X dimensions: (1632, 1)
+Y dimensions: (1632, 1)
+
+File: pair0073.csv
+X dimensions: (5084, 1)
+Y dimensions: (5084, 1)
+
+File: pair0074.csv
+X dimensions: (194, 1)
+Y dimensions: (194, 1)
+
+File: pair0075.csv
+X dimensions: (205, 1)
+Y dimensions: (205, 1)
+
+File: pair0076.csv
+X dimensions: (347, 1)
+Y dimensions: (347, 1)
+
+File: pair0077.csv
+X dimensions: (8401, 1)
+Y dimensions: (8401, 1)
+
+File: pair0078.csv
+X dimensions: (721, 1)
+Y dimensions: (721, 1)
+
+File: pair0079.csv
+X dimensions: (721, 1)
+Y dimensions: (721, 1)
+
+File: pair0080.csv
+X dimensions: (721, 1)
+Y dimensions: (721, 1)
+
+File: pair0081.csv
+X dimensions: (365, 1)
+Y dimensions: (365, 1)
+
+File: pair0082.csv
+X dimensions: (365, 1)
+Y dimensions: (365, 1)
+
+File: pair0083.csv
+X dimensions: (365, 1)
+Y dimensions: (365, 1)
+
+File: pair0084.csv
+X dimensions: (3102, 1)
+Y dimensions: (3102, 1)
+
+File: pair0085.csv
+X dimensions: (994, 1)
+Y dimensions: (994, 1)
+
+File: pair0086.csv
+X dimensions: (666, 1)
+Y dimensions: (666, 1)
+
+File: pair0087.csv
+X dimensions: (7753, 1)
+Y dimensions: (7753, 1)
+
+File: pair0088.csv
+X dimensions: (261, 1)
+Y dimensions: (261, 1)
+
+File: pair0089.csv
+X dimensions: (131, 1)
+Y dimensions: (131, 1)
+
+File: pair0090.csv
+X dimensions: (126, 1)
+Y dimensions: (126, 1)
+
+File: pair0091.csv
+X dimensions: (149, 1)
+Y dimensions: (149, 1)
+
+File: pair0092.csv
+X dimensions: (150, 1)
+Y dimensions: (150, 1)
+
+File: pair0093.csv
+X dimensions: (432, 1)
+Y dimensions: (432, 1)
+
+File: pair0094.csv
+X dimensions: (9504, 1)
+Y dimensions: (9504, 1)
+
+File: pair0095.csv
+X dimensions: (9504, 1)
+Y dimensions: (9504, 1)
+
+File: pair0096.csv
+X dimensions: (9504, 1)
+Y dimensions: (9504, 1)
+
+File: pair0097.csv
+X dimensions: (202, 1)
+Y dimensions: (202, 1)
+
+File: pair0098.csv
+X dimensions: (94, 1)
+Y dimensions: (94, 1)
+
+File: pair0099.csv
+X dimensions: (2287, 1)
+Y dimensions: (2287, 1)
+
+File: pair0100.csv
+X dimensions: (209, 1)
+Y dimensions: (209, 1)
+
+File: pair0101.csv
+X dimensions: (300, 1)
+Y dimensions: (300, 1)
+
+File: pair0102.csv
+X dimensions: (109, 1)
+Y dimensions: (109, 1)
+
+File: pair0103.csv
+X dimensions: (109, 1)
+Y dimensions: (109, 1)
+
+File: pair0104.csv
+X dimensions: (109, 1)
+Y dimensions: (109, 1)
+
+File: pair0105.csv
+X dimensions: (1000, 9)
+Y dimensions: (1000, 1)
+
+File: pair0106.csv
+X dimensions: (114, 1)
+Y dimensions: (114, 1)
+
+File: pair0107.csv
+X dimensions: (240, 1)
+Y dimensions: (240, 1)
+
+File: pair0108.csv
+X dimensions: (112, 1)
+Y dimensions: (112, 1)
