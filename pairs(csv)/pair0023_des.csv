@@ -1,0 +1,23 @@
+Information for pairs0023:
+https://archive.ics.uci.edu/ml/datasets/Arrhythmia
+Cardiac Arrhythmia Database
+1. Sources:
+   (a) Original owners od Database:
+             Phone: +90 (312) 266 4133
+             Email: guvenir@cs.bilkent.edu.tr
+             EE Eng. Dept. 
+             Email: buraka@ee.bilkent.edu.tr
+             School of Medicine
+   (b) Donor: H. Altay Guvenir
+              Phone: +90 (312) 266 4133
+              Email: guvenir@cs.bilkent.edu.tr
+2. Past Usage:
+"      ""A Supervised Machine Learning Algorithm for Arrhythmia Analysis"""
+3. Number of Instances: 452
+4. Attribute Information:
+Age: 	Age in years  		linear
+Weight: Height in centimeters 	linear
+x: age
+y: weight
+ground truth:
+x --> y

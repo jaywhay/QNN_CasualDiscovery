@@ -1,0 +1,24 @@
+Information for pairs0013:
+Auto-Mpg Data
+http://archive.ics.uci.edu/ml/datasets/Auto+MPG
+1. Sources:
+   (a) Origin:  This dataset was taken from the StatLib library which is
+                maintained at Carnegie Mellon University. The dataset was 
+                used in the 1983 American Statistical Association Exposition.
+2. Past Usage:
+    -  See 2b (above)
+       In Proceedings on the Tenth International Conference of Machine 
+       Kaufmann.
+3. Relevant Information:
+   This dataset is a slightly modified version of the dataset provided in
+   the StatLib library.  In line with the use by Ross Quinlan (1993) in
+"   because they had unknown values for the ""mpg"" attribute.  The original "
+"   dataset is available in the file ""auto-mpg.data-original""."
+    to be predicted in terms of 3 multivalued discrete and 5 continuous
+Attribute information:
+mpg:           continuous
+displacement:  continuous
+x: displacement
+y: mpg
+ground truth:
+x --> y

@@ -1,0 +1,18 @@
+Information for pairs0005:
+https://archive.ics.uci.edu/ml/datasets/Abalone
+1. Title of Database: Abalone data
+2. Sources:
+   (a) Original owners of database:
+	Marine Resources Division
+	Marine Research Laboratories - Taroona
+   (b) Donor of database:
+	Sam Waugh (Sam.Waugh@cs.utas.edu.au)
+   (c) Date received: December 1995
+3. Attribute information:
+   brief description.  
+	Name		Data Type	Meas.	Description
+	----		---------	-----	-----------
+x:	Rings		integer			+1.5 gives the age in years
+y:	Length		continuous	mm	Longest shell measurement
+Ground truth:
+x --> y
