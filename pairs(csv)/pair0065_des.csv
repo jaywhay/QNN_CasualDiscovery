@@ -1,0 +1,8 @@
+Information for pair0065:
+Financial data:
+x:	stock returns of Hang Seng Bank (0011.HK) 
+y:	stock return of HSBC Hldgs (0005.HK) 
+Remark: We calculated the above returns from the raw data in the following way.
+1. Extract the dividend/split adjusted closing price data from Yahoo Finance http://finance.yahoo.com/.
+ground truth:
+x-->y

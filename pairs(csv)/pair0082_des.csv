@@ -1,0 +1,13 @@
+Information for pair0082:
+Fluxnet data
+The folder contains flux data where fluxes are net CO2 exchanges aggregated
+The site id is DE-Har
+You have 365 values per site (one year).
+"The night time CO2 is ""respiration"" the flux from the ecosystem to the"
+atmosphere but no assumptions on flux partitioning!!! The price is high noise
+levels.
+x: Temperature in degree Celsius
+y: CO2 flux at night
+or 1 for credible values. 
+ground truth:
+x --> y

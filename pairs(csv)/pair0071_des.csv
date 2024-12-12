@@ -1,0 +1,27 @@
+Information for pair0071:
+Data was taken from the UCI repository
+http://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
+Systems Research Institute
+Polish Academy of Sciences
+Laboratory of Intelligent Systems
+e-mail: jacek.czerniak '@' ibspan.waw.pl or jczerniak '@' ukw.edu.pl 
+Acute inflammation of urinary bladder is characterised
+by sudden occurrence of pains in the abdomen region and the urination in form of
+protracted form.
+Acute nephritis of renal pelvis origin occurs considerably more often at women than at
+strong. Symptoms of acute inflammation of urinary bladder appear very often. Quite not
+infrequently there are nausea and vomiting and spread pains of whole abdomen.
+will perform the presumptive diagnosis of two diseases of urinary system. 
+Each instance represents an potential patient. 
+Discrete and logical data:
+X is 6-dimensional
+1 	Temperature of patient { 35C-42C } 
+2 	Occurrence of nausea 
+3 	Lumbar pain
+4 	Urine pushing (continuous need for urination)
+5 	Micturition pains
+Y is 2-dimensional
+7	decision: Inflammation of urinary bladder
+8 	decision: Nephritis of renal pelvis origin 
+ground truth:
+X --> Y

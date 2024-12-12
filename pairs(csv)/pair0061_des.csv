@@ -1,0 +1,7 @@
+Information for pair0061:
+UNdata from http://data.un.org
+y:	latitude of the country's capital
+source:
+http://data.un.org/Data.aspx?d=GenderStat&f=inID%3a37
+ground truth:
+y-->x
